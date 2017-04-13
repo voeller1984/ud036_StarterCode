@@ -1,7 +1,7 @@
 import mediatek
 import fresh_tomatoes
 
-    """this objects are taking title, imageUrl and trailerUrl as input """
+'''this objects are taking title, imageUrl and trailerUrl as input'''
 shawshank_redemption = mediatek.Movie("the Shawshank Redemption",
                                       "http://pics.filmaffinity.com/"
                                       "the_shawshank_redemption-576140557-"
